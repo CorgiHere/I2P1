@@ -14,7 +14,6 @@
 */
 Elements *New_Player(int label)
 {  
-    
     // setting derived object member
     Player *pDerivedObj = (Player *)malloc(sizeof(Player));
     Elements *pObj = New_Elements(label);

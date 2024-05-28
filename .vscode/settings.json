@@ -64,6 +64,10 @@
     "algif.h": "c",
     "shape.h": "c",
     "rectangle.h": "c",
-    "allegro_primitives.h": "c"
-  }
+    "allegro_primitives.h": "c",
+    "bullet.h": "c",
+    "monster.h": "c",
+    "player.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
 }
